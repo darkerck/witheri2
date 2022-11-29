@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.witheri"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\muvi\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\muvi\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\muvi\app\src\main\AndroidManifest.xml:4:5-66
+11-->D:\muvi\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->D:\muvi\app\src\main\AndroidManifest.xml:5:5-80
+12-->D:\muvi\app\src\main\AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->D:\muvi\app\src\main\AndroidManifest.xml:6:5-78
+13-->D:\muvi\app\src\main\AndroidManifest.xml:6:22-76
+14
+15    <application
+15-->D:\muvi\app\src\main\AndroidManifest.xml:8:5-35:19
+16        android:allowBackup="true"
+16-->D:\muvi\app\src\main\AndroidManifest.xml:9:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] C:\Users\Данил\.gradle\caches\transforms-3\6a19de105318aab1da00cfa3c60fb56e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+18        android:dataExtractionRules="@xml/data_extraction_rules"
+18-->D:\muvi\app\src\main\AndroidManifest.xml:10:9-65
+19        android:debuggable="true"
+20        android:fullBackupContent="@xml/backup_rules"
+20-->D:\muvi\app\src\main\AndroidManifest.xml:11:9-54
+21        android:icon="@mipmap/ic_launcher"
+21-->D:\muvi\app\src\main\AndroidManifest.xml:12:9-43
+22        android:label="@string/app_name"
+22-->D:\muvi\app\src\main\AndroidManifest.xml:13:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->D:\muvi\app\src\main\AndroidManifest.xml:14:9-54
+24        android:supportsRtl="true"
+24-->D:\muvi\app\src\main\AndroidManifest.xml:15:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.Witheri"
+26-->D:\muvi\app\src\main\AndroidManifest.xml:16:9-45
+27        android:usesCleartextTraffic="true" >
+27-->D:\muvi\app\src\main\AndroidManifest.xml:17:9-44
+28        <activity
+28-->D:\muvi\app\src\main\AndroidManifest.xml:19:9-31:20
+29            android:name="com.example.witheri.MainActivity"
+29-->D:\muvi\app\src\main\AndroidManifest.xml:20:13-41
+30            android:exported="true" >
+30-->D:\muvi\app\src\main\AndroidManifest.xml:21:13-36
+31            <intent-filter>
+31-->D:\muvi\app\src\main\AndroidManifest.xml:22:13-26:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->D:\muvi\app\src\main\AndroidManifest.xml:23:17-69
+32-->D:\muvi\app\src\main\AndroidManifest.xml:23:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->D:\muvi\app\src\main\AndroidManifest.xml:25:17-77
+34-->D:\muvi\app\src\main\AndroidManifest.xml:25:27-74
+35            </intent-filter>
+36
+37            <meta-data
+37-->D:\muvi\app\src\main\AndroidManifest.xml:28:13-30:36
+38                android:name="android.app.lib_name"
+38-->D:\muvi\app\src\main\AndroidManifest.xml:29:17-52
+39                android:value="" />
+39-->D:\muvi\app\src\main\AndroidManifest.xml:30:17-33
+40        </activity>
+41
+42        <meta-data
+42-->D:\muvi\app\src\main\AndroidManifest.xml:32:9-34:57
+43            android:name="preloaded_fonts"
+43-->D:\muvi\app\src\main\AndroidManifest.xml:33:13-43
+44            android:resource="@array/preloaded_fonts" />
+44-->D:\muvi\app\src\main\AndroidManifest.xml:34:13-54
+45
+46        <activity
+46-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Данил\.gradle\caches\transforms-3\49e1fdcc542bde6869659be3a6e1ba42\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+47            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+47-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Данил\.gradle\caches\transforms-3\49e1fdcc542bde6869659be3a6e1ba42\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+48            android:exported="false"
+48-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Данил\.gradle\caches\transforms-3\49e1fdcc542bde6869659be3a6e1ba42\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+49            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+49-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Данил\.gradle\caches\transforms-3\49e1fdcc542bde6869659be3a6e1ba42\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+50
+51        <meta-data
+51-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Данил\.gradle\caches\transforms-3\5bc03a3cae9f2de30289c195be9dc8a3\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+52            android:name="com.google.android.gms.version"
+52-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Данил\.gradle\caches\transforms-3\5bc03a3cae9f2de30289c195be9dc8a3\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+53            android:value="@integer/google_play_services_version" />
+53-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Данил\.gradle\caches\transforms-3\5bc03a3cae9f2de30289c195be9dc8a3\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+54
+55        <provider
+55-->[com.squareup.picasso:picasso:2.8] C:\Users\Данил\.gradle\caches\transforms-3\9c06003d06e9bdb71063ab01aad790dd\transformed\jetified-picasso-2.8\AndroidManifest.xml:8:9-11:40
+56            android:name="com.squareup.picasso.PicassoProvider"
+56-->[com.squareup.picasso:picasso:2.8] C:\Users\Данил\.gradle\caches\transforms-3\9c06003d06e9bdb71063ab01aad790dd\transformed\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
+57            android:authorities="com.example.witheri.com.squareup.picasso"
+57-->[com.squareup.picasso:picasso:2.8] C:\Users\Данил\.gradle\caches\transforms-3\9c06003d06e9bdb71063ab01aad790dd\transformed\jetified-picasso-2.8\AndroidManifest.xml:10:13-72
+58            android:exported="false" />
+58-->[com.squareup.picasso:picasso:2.8] C:\Users\Данил\.gradle\caches\transforms-3\9c06003d06e9bdb71063ab01aad790dd\transformed\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
+59    </application>
+60
+61</manifest>

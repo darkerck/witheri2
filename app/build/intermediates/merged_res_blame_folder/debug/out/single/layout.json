@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.witheri.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.witheri.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-mergeDebugResources-30:/layout/list_item.xml",
+        "source": "com.example.witheri.app-main-33:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-mergeDebugResources-30:/layout/fragment_hours.xml",
+        "source": "com.example.witheri.app-main-33:/layout/fragment_hours.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-mergeDebugResources-30:/layout/fragment_main.xml",
+        "source": "com.example.witheri.app-main-33:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-mergeDebugResources-30:/layout/fragment_days.xml",
+        "source": "com.example.witheri.app-main-33:/layout/fragment_days.xml"
+    }
+]

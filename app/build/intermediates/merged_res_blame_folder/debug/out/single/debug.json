@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/font_alice.xml.flat",
+        "source": "com.example.witheri.app-main-33:/font/alice.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.witheri.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.witheri.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.witheri.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/font_amethysta.xml.flat",
+        "source": "com.example.witheri.app-main-33:/font/amethysta.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/layout_fragment_main.xml.flat",
+        "source": "com.example.witheri.app-main-33:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.witheri.app-pngs-26:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/drawable_ic_baseline_cloud_sync_24.xml.flat",
+        "source": "com.example.witheri.app-main-33:/drawable/ic_baseline_cloud_sync_24.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/drawable-v24_fon.png.flat",
+        "source": "com.example.witheri.app-main-33:/drawable-v24/fon.png"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.witheri.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/layout_fragment_hours.xml.flat",
+        "source": "com.example.witheri.app-main-33:/layout/fragment_hours.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/drawable_ic_baseline_search_24.xml.flat",
+        "source": "com.example.witheri.app-main-33:/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/layout_fragment_days.xml.flat",
+        "source": "com.example.witheri.app-main-33:/layout/fragment_days.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/layout_list_item.xml.flat",
+        "source": "com.example.witheri.app-main-33:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.witheri.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.witheri.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
